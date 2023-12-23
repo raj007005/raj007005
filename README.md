@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raj007005
+- 👋 Hi, I’m raj007005
 - 👀 I’m interested in computers
 - 🌱 I’m currently learning java language
 - 💞️ I’m looking to collaborate on ...
